@@ -1,0 +1,13 @@
+/* pages/location/location.wxss */
+
+#map {
+    color: red;
+    display: "block"; 
+}
+
+#find-u-button {
+    display: "block";
+    height: 50px;
+    width: 120px;
+    margin-top: 5%;
+}

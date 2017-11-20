@@ -1,0 +1,8 @@
+<!--pages/missu/missu.wxml-->
+<view class="container" bindtap='onScreenTouch' >
+    <image class="together-image" id="welcome-image" src='/resources/miss.jpg' mode="widthFix">
+    </image>
+    <view class="miss-u-text" style="color: #EEB4B4">
+
+    </view>
+</view>

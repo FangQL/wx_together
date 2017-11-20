@@ -1,0 +1,44 @@
+{
+    "pages": [
+        "pages/loveu/loveu",
+        "pages/callu/callu",
+        "pages/missu/missu",
+        "pages/findu/findu"
+    ],
+    "window": {
+        "backgroundColor": "#F6F6F6",
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#F6F6F6",
+        "navigationBarTitleText": "Together",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "selectedColor":"#FFAEB9",
+        "list": [
+            {
+                "pagePath": "pages/loveu/loveu",
+                "text": "Love U",
+                "iconPath": "/resources/icon/love.png",
+                "selectedIconPath": "/resources/icon/love_solid.png"
+            },
+            {
+                "pagePath": "pages/missu/missu",
+                "text": "Miss U",
+                "iconPath": "/resources/icon/miss.png",
+                "selectedIconPath": "/resources/icon/miss_solid.png"
+            },
+            {
+                "pagePath": "pages/callu/callu",
+                "text": "Call U",
+                "iconPath": "/resources/icon/call.png",
+                "selectedIconPath": "/resources/icon/call_solid.png"
+            },
+            {
+                "pagePath": "pages/findu/findu",
+                "text": "Find U",
+                "iconPath": "/resources/icon/find.png",
+                "selectedIconPath": "/resources/icon/find_solid.png"
+            }
+        ]
+    }
+}

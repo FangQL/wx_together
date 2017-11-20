@@ -1,0 +1,12 @@
+<!--pages/sos/sos.wxml-->
+<view class="container" bindtap='onScreenTouch' >
+    <image class="together-image" id="welcome-image" src='/resources/calling.jpg' mode="widthFix" bindtap='onTouchScreen'>
+    </image>
+    <view class="miss-u-text" style="color: #EEB4B4">
+
+    </view>
+</view>
+
+
+
+

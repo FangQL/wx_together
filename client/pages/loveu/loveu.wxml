@@ -1,0 +1,22 @@
+<!--pages/lovepower/lovepower.wxml-->
+
+<view class='flex' style='display: flex;'>
+    <view class='flex-view-item' style='margin: 25px'>
+    
+    </view>
+
+    <image class='flex-view-item' mode="widthFix" id="welcome-image" src='https://im.ezgif.com/tmp/ezgif-1-a4c34036e5.gif' style='align-items: center'></image>
+
+    <view class='flex-view-item'>
+    
+    </view>
+</view>
+
+
+
+
+
+
+
+
+
